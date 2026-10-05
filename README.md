@@ -1,6 +1,6 @@
 # log-purge
 
-[![CI](https://github.com/Sumodip-Patra/log-purge/actions/workflows/ci.yml/badge.svg)](https://github.com/Sumodip-Patra/log-purge/actions/workflows/ci.yml)
+[![CI](https://github.com/YOUR_USERNAME/log-purge/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/log-purge/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)
 
